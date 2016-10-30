@@ -98,6 +98,7 @@ train_labels = labels[VALIDATION_SIZE:]
 print('train_images({0[0]},{0[1]})'.format(train_images.shape))
 print('validation_images({0[0]},{0[1]})'.format(validation_images.shape))
 
+## On module [10] starting with tensorflow graph
 
 
 
